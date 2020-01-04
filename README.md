@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.nunomaduro.com">
-    <img alt="package-name" src="https://raw.githubusercontent.com/nunomaduro/package-name/master/art/logo.png" >
+    <img alt="package-name" src="https://raw.githubusercontent.com/nunomaduro/skeleton-js/master/art/logo.png" >
   </a>
 
   <h4 align="center">The perfect starting point to ...</h4>
