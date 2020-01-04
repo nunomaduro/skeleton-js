@@ -1,4 +1,4 @@
-/* eslint-disable import/no-commonjs, functional/immutable-data, functional/no-let, no-param-reassign */
+/* eslint-disable import/no-commonjs, functional/immutable-data, functional/no-let */
 
 import json from '@rollup/plugin-json';
 import path from 'path';

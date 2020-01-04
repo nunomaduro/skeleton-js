@@ -8,6 +8,7 @@ module.exports = {
     "plugin:promise/recommended"
   ],
   rules: {
+    "eslint-comments/disable-enable-pair": ["error", {"allowWholeFile": true}],
     "simple-import-sort/sort": "error",
     "max-len": [1, 120, 2, { ignoreComments: true }],
     "prettier/prettier": [
