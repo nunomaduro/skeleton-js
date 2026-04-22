@@ -11,6 +11,7 @@
     <a href="http://npm-stat.com/charts.html?package=package-name"><img src="https://img.shields.io/npm/dm/package-name.svg?style=flat-square" alt="NPM downloads"></a>
     <a href="https://www.jsdelivr.com/package/npm/package-name"><img src="https://data.jsdelivr.com/v1/package/npm/package-name/badge" alt="jsDelivr Downloads"></img></a>
     <a href="LICENSE.txt"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="License"></a>
+    <a href="https://youtube.com/@nunomaduro?sub_confirmation=1"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCO_hYZF2gb_CyG5sA7ArlGg?style=flat&label=youtube&color=brightgreen"></a>
   </p>
 </p>
 
